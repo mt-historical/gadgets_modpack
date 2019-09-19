@@ -2,6 +2,8 @@
 gadgets_modpack aims at providing a full progression of magic and technology based tools and consumables that add various player status effects and do other useful functions. Modpack also provides an API to easily make your own "gadgets".  
 Content packs are split into separate mods, so if you don't like something (for example you only want to leave magic), you can simply disable them.  
 
+![Screenshot](screenshot.png)
+
 ## Requirements:
 
 **Minetest 5.0.0+**  
@@ -92,7 +94,7 @@ All interactions respect area protection
 Magic tomes use mana and don't wear down, wear bar of staves represent their "charge", and they can be recharged by combining them with februm crystals on the crafting grid.
 
 ## Settingtypes
-Modpack provides some settings, accessible via "Settings->All Settings->Mods->bweapons_api  
+Modpack provides some settings, accessible via "Settings->All Settings->Mods->gadgets_api  
 You can also put these settings directly to your minetest.conf
 
 ```
